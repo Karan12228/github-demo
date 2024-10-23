@@ -1,3 +1,5 @@
 # github-demo
 This is my first Git repository
-Author - Karan Singla
+<br>
+Author - Karandeep Singla
+We are learning Git Commands
